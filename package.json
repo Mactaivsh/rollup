@@ -33,7 +33,7 @@
     "perf:init": "node scripts/perf-init.js",
     "perf:debug": "node --inspect-brk scripts/perf-debug.js"
   },
-  "repository": "rollup/rollup",
+  "repository": "https://github.com/Mactaivsh/rollup-legacy",
   "keywords": [
     "modules",
     "bundler",
@@ -46,9 +46,9 @@
   "author": "Mactavish <maczhanchao@yahoo.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rollup/rollup/issues"
+    "url": "https://github.com/Mactaivsh/rollup-legacy/issues"
   },
-  "homepage": "https://github.com/rollup/rollup",
+  "homepage": "https://github.com/Mactaivsh/rollup-legacy",
   "dependencies": {
     "@types/estree": "0.0.39",
     "@types/node": "*"
