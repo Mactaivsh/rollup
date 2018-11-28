@@ -1,7 +1,7 @@
 {
-  "name": "rollup",
-  "version": "0.59.4",
-  "description": "Next-generation ES6 module bundler",
+  "name": "rollup-legacy",
+  "version": "1.0.0",
+  "description": "legacy rollup bundler",
   "main": "dist/rollup.js",
   "module": "dist/rollup.es.js",
   "jsnext:main": "dist/rollup.es.js",
@@ -39,13 +39,11 @@
     "bundler",
     "bundling",
     "es6",
-    "optimizer"
+    "optimizer",
+    "rollup",
+    "legacy"
   ],
-  "author": "Rich Harris",
-  "contributors": [
-    "Oskar Segersvärd <victorystick@gmail.com>",
-    "Bogdan Chadkin <trysound@yandex.ru>"
-  ],
+  "author": "Mactavish <maczhanchao@yahoo.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/rollup/rollup/issues"
